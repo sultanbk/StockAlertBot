@@ -1,0 +1,1 @@
+worker: python hmt_bot.py
